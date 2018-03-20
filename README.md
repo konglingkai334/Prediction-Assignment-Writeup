@@ -1,4 +1,4 @@
-# Prediction-Assignment-Writeup
+
 echo "# Prediction-Assignment-Writeup" >> README.md
 git init
 git add README.md
